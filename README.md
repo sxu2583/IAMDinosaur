@@ -64,7 +64,7 @@ and RobotJs (a library to read pixels and simulate key presses).
 
 There are a few files in the project:
 
-- `index.js`: It tight all things together.
+- `index.js`: It ties all things together.
 
 - `Scanner.js`: Basic abstraction layer above RobotJs library that reads the screen like
   ray tracing. Also have some utilities functions.
